@@ -6,6 +6,12 @@ Welcome to the **CLIP in .NET** project! This repository demonstrates how to lev
 
 CLIP is designed to understand images and text in a shared latent space, enabling zero-shot learning across a wide range of tasks. This repository will guide you through setting up CLIP in .NET, running inference with pre-trained models, and troubleshooting common issues.
 
+For an in-depth guide on how to use CLIP with .NET, check out the full article:  
+🔗 [Unlocking the Power of CLIP AI in .NET: A Guide to Vision-Language Models](https://medium.com/@meysam.karimi84/unlocking-the-power-of-clip-ai-in-net-a-guide-to-vision-language-models-b07e75570a57)
+
+
+Feel free to explore and contribute to this project!
+
 ## Key Features
 
 - **Multimodal learning**: Integrates image and text data to understand relationships between the two.
